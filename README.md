@@ -1,3 +1,1 @@
-# demo_1
-
-adding some stuff
+This is a set of demo notebooks for introducing Notebooks in Workspaces (Preview)!
